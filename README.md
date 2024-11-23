@@ -20,15 +20,6 @@ Getting Started
         Install the Dafny verifier.
         Run the Dafny verifier on the deposit function's specification.
 
-Project Structure
-
-your_repo_name/
-├── contracts/
-│   └── BalanceTracker.sol
-├── dafny/
-│   └── deposit.dfy
-└── README.md
-
 Security Considerations
 
 While this contract is relatively simple, it's essential to consider potential security vulnerabilities:
